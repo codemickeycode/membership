@@ -1,24 +1,11 @@
-Django DRAFT
-============
+Python.PH Memberships
+=====================
 
-The (D)jango (R)ESTFramework (A)pp(F)u (T)emplate
-
-This is, ideally, a single app Django project template built with DRF and social
-logins. Built as a hackathon starter boilerplate in mind.
-
-Based on bleeding edge Django 1.7x
-
-Uses Twitter as default social auth login.
-
-
-## Screenshots
-
-![alt text](screenshots/scr1.png "Screenshot 1")
-
-![alt text](screenshots/scr2.png "Screenshot 1")
 
 
 ## Prerequisites
+
+TODO
 
 
 ### External libs for Pillow
@@ -46,16 +33,3 @@ Under your project's settings folder you'll find a `config.json` file. Fill it o
 values. Alternatively you can also create a `config-user.json` for configurations specific to a
 particular environment.
 
-
-### Server settings
-
-TODO
-
-
-## Usage
-
-If you named your app `your_app_name`:
-
-```
-$ django-admin startproject --template=https://github.com/cr8ivecodesmith/djdraft/archive/master.zip --extension=py,html,json your_app_name
-```
