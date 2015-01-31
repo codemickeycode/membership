@@ -1,6 +1,7 @@
 Python.PH Memberships
 =====================
-
+## Background/Objectives
+The main purpose of this app is to collect PythonPH member information. We imagine it being integrated to other PythonPH apps such as jobs.python.ph, etc. in the future.
 
 
 ## Prerequisites
